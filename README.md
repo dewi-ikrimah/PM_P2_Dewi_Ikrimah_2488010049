@@ -8,7 +8,7 @@ NIM : 2488010049
 
 Ringkasan
 
-Pembelajaran membahas jenis pembelajaran dalam Machine Learning, struktur dataset, perbedaan klasifikasi dan regresi, pembagian data latih dan data uji, serta alur kerja Machine Learning yang bersifat iteratif.
+Membahas jenis pembelajaran dalam Machine Learning, struktur dataset, perbedaan klasifikasi dan regresi, pembagian data latih dan data uji, serta alur kerja Machine Learning yang bersifat iteratif.
 
 Isi Repositori
 
