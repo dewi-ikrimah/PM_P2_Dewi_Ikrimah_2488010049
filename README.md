@@ -2,6 +2,7 @@ Praktikum Pertemuan 2 - Jenis Pembelajaran & Alur Kerja Machine Learning
 
 Mata Kuliah: Pembelajaran Mesin (INF62325) 
 Nama : Dewi Ikrimah
+
 NIM : 2488010049
 
 Ringkasan
