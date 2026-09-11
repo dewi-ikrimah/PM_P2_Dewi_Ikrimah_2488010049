@@ -7,7 +7,7 @@ Nama : Dewi Ikrimah
 NIM : 2488010049
 
 Ringkasan
-Praktikum membahas jenis pembelajaran dalam Machine Learning, struktur dataset, perbedaan klasifikasi dan regresi, pembagian data latih dan data uji, serta alur kerja Machine Learning yang bersifat iteratif.
+Pembelajaran membahas jenis pembelajaran dalam Machine Learning, struktur dataset, perbedaan klasifikasi dan regresi, pembagian data latih dan data uji, serta alur kerja Machine Learning yang bersifat iteratif.
 
 Isi Repositori
 PM_P2_Dewi_Ikrimah_2488010049.ipynb : notebook praktikum
